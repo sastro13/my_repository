@@ -1,0 +1,14 @@
+rancang bangun monitoring kualitas udara pada 
+Ruang Belajar menggunakan protokol CoAP
+-memonitor kualitas udara dalam ruang belajar
+-diakses melalui android
+-peringatan jika ada gas polutan dalam kamar (contoh asap rokok)
+
+perbandingan performa protokol mqtt dan CoAP pada modul monitoring 
+kualitas udara pada persimpangan jalan.
+-membandingkan performa(konsumsi daya,pemakaian data,kecepatan)
+
+
+Pengaruh Implementasi Quality of service pada protokol MQTT 
+terhadap performa gateway berbasis esp6288  
+
